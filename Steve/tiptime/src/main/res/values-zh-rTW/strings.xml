@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tip Time</string>
+    <string name="ok_10">"還可以  "</string>
+    <string name="good_16">" 很好"</string>
+    <string name="amazing_21">" 非常棒"</string>
+    <string name="how_was_the_service">"服務怎麼樣？  "</string>
+    <string name="tip_amount">小費金額</string>
+    <string name="calculate">"計算  "</string>
+    <string name="cost_of_services">服務費用</string>
+    <string name="round_up_tip">是否取整</string>
+</resources>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/basicstatecode" />
+            <option value="$PROJECT_DIR$/basicstatecodelab" />
+            <option value="$PROJECT_DIR$/demo" />
+            <option value="$PROJECT_DIR$/fabdemo" />
+            <option value="$PROJECT_DIR$/intend" />
+            <option value="$PROJECT_DIR$/learncompose" />
+            <option value="$PROJECT_DIR$/myedittext" />
+            <option value="$PROJECT_DIR$/myfirstapplication" />
+            <option value="$PROJECT_DIR$/myimageview" />
+            <option value="$PROJECT_DIR$/navidemo" />
+            <option value="$PROJECT_DIR$/shazhi" />
+            <option value="$PROJECT_DIR$/tiptime" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

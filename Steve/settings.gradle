@@ -1,0 +1,29 @@
+pluginManagement {
+    repositories {
+        google()
+        mavenCentral()
+        gradlePluginPortal()
+    }
+}
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        google()
+        mavenCentral()
+    }
+}
+rootProject.name = "Steve"
+include ':app'
+include ':app'
+include ':myedittext'
+include ':myimageview'
+include ':myfirstapplication'
+include ':tiptime'
+include ':shazhi'
+include ':demo'
+include ':navidemo'
+include ':intend'
+include ':fabdemo'
+include ':learncompose'
+include ':basicstatecodelab'
+include ':basicstatecode'
